@@ -1,59 +1,90 @@
 # Hello, I'm Slim SOLTANI 👋
 
-### 🏗️ Solutions Architect | Cloud & DevOps Expert
-**Founder at [Soltania Technology](https://your-website.com)**
+<div align="center">
 
-With **15+ years of experience** partnering with industry leaders like **Airbus**, **Société Générale**, and **Citibank**, I help organizations design resilient architectures and industrialize their deployments. My focus is transforming manual operations into robust, cloud-native systems using Infrastructure as Code (IaC) and advanced automation.
+[![Solutions Architect](https://img.shields.io/badge/Role-Solutions_Architect-blueviolet?style=for-the-badge&logo=amazonaws)](https://www.soltania-technology.com)
+[![Platform Engineering](https://img.shields.io/badge/Focus-Platform_Engineering-blue?style=for-the-badge&logo=terraform)](https://www.soltania-technology.com)
+[![AWS Expert](https://img.shields.io/badge/AWS-11_Certifications-FF9900?style=for-the-badge&logo=amazon-aws)](https://www.credly.com/)
+
+**Founder at [Soltania Technology](https://your-website.com)**
+*Turning Chaos into Governance. Transforming Legacy into Cloud-Native.*
+
+</div>
+
+---
+
+### 🏛️ About Me
+
+With **15+ years of experience** partnering with industry giants like **Airbus**, **Société Générale**, and **Citibank**, I engineer the bridge between complex business requirements and resilient technical execution.
+
+My mission is simple: **Industrialize IT Operations.** I move organizations away from fragile, manual "Ops" towards robust, self-service **Platform Engineering** ecosystems using Infrastructure as Code (IaC) and strict Governance.
 
 ---
 
 ### 🚀 What I Build at Soltania Technology
 
-I don't just write code; I engineer platforms. My expertise focuses on:
+I design systems that allow developers to ship faster without breaking things.
 
-* ☁️ **Cloud Architecture & Migration:** Transforming Legacy systems for the Cloud. [cite_start]Proven track record migrating on-premise apps to **AWS** (ECS Fargate, Lambda) and **Oracle Cloud**[cite: 29, 46, 92].
-* 🔄 **DevOps & Industrialization:** Building complete "Software Factories." [cite_start]Recently reduced environment provisioning time from **3 weeks to 15 minutes** using GitHub Actions and Terraform.
-* [cite_start]🛡️ **SecOps & Governance:** Implementing secure architectures with **HashiCorp Vault** and IAM strategies (Cognito, OneLogin) for banking and aviation sectors[cite: 48, 66].
-* [cite_start]☕ **Backend Modernization:** Decades of expertise refactoring Monolithic Java/JEE architectures into scalable Microservices (Python, Spring Boot)[cite: 126, 153].
+* ☁️ **Cloud Strategy & Migration:** Architecting the shift from On-Premise to Cloud (**AWS ECS Fargate, Lambda**, Oracle Cloud).
+* 🛡️ **Governance & Security:** "Shift-Left" security implementation using **HashiCorp Vault**, IAM strategies, and Policy as Code.
+* 🏭 **Platform Engineering:** Building Internal Developer Platforms (IDP) that reduce environment provisioning from **weeks to minutes**.
+* ☕ **Modernization:** Refactoring Monolithic Java/JEE giants into scalable, observable Microservices (Spring Boot, Python).
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ The Arsenal (Tech Stack)
 
 | Domain | Technologies Mastered |
 | :--- | :--- |
-| **Cloud Providers** | ![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?logo=amazon-aws&style=flat-square) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-Proficient-F80000?logo=oracle&style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-Admin-00A1E0?logo=salesforce&style=flat-square) |
-| **IaC & Containers** | ![Terraform](https://img.shields.io/badge/Terraform-Advanced-623CE4?logo=terraform&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?logo=docker&style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Production-326CE5?logo=kubernetes&style=flat-square) ![Vault](https://img.shields.io/badge/Vault-SecOps-000000?logo=vault&style=flat-square) |
-| **CI/CD & QA** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Pipelines-2088FF?logo=github-actions&style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-Automation-D24939?logo=jenkins&style=flat-square) ![Bruno](https://img.shields.io/badge/Bruno-API_Testing-orange?style=flat-square) |
-| **Backend Core** | ![Java](https://img.shields.io/badge/Java-15+_Years-ED8B00?logo=openjdk&style=flat-square) ![Python](https://img.shields.io/badge/Python-Scripting_&_Lambda-3776AB?logo=python&style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring-Microservices-6DB33F?logo=spring&style=flat-square) |
-| **Architecture** | ![ArchiMate](https://img.shields.io/badge/Architecture-ArchiMate-blue?style=flat-square) ![Microservices](https://img.shields.io/badge/Pattern-Microservices-blueviolet?style=flat-square) ![Event Driven](https://img.shields.io/badge/Pattern-Event_Driven-blueviolet?style=flat-square) |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-Expert-FF9900?logo=amazon-aws&style=flat-square) ![Oracle Cloud](https://img.shields.io/badge/Oracle-Proficient-F80000?logo=oracle&style=flat-square) ![Salesforce](https://img.shields.io/badge/Salesforce-Admin-00A1E0?logo=salesforce&style=flat-square) |
+| **IaC & Platform** | ![Terraform](https://img.shields.io/badge/Terraform-Advanced-623CE4?logo=terraform&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?logo=docker&style=flat-square) ![Kubernetes](https://img.shields.io/badge/K8s-Production-326CE5?logo=kubernetes&style=flat-square) ![Vault](https://img.shields.io/badge/Vault-SecOps-000000?logo=vault&style=flat-square) |
+| **CI/CD & Quality** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Governance-2088FF?logo=github-actions&style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-Automation-D24939?logo=jenkins&style=flat-square) ![Bruno](https://img.shields.io/badge/Bruno-API_Testing-orange?style=flat-square) |
+| **Backend Core** | ![Java](https://img.shields.io/badge/Java-15+_Years-ED8B00?logo=openjdk&style=flat-square) ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&style=flat-square) ![Spring Boot](https://img.shields.io/badge/Spring-Microservices-6DB33F?logo=spring&style=flat-square) |
+
+---
+
+### 🔭 Vitrine: The Soltania Ecosystem
+
+These repositories demonstrate my approach to **standardization** and **architectural rigor**.
+
+#### 1. [Soltania Platform Workflows](https://github.com/soltani-a/soltania-platform-workflows)
+> *The "Single Source of Truth" for CI/CD.*
+>
+> A centralized library of reusable GitHub Actions templates. It enforces **DRY principles**, standardizes security gates, and implements automated versioning (Semantic Release) for the entire organization.
+> * **Tech:** GitHub Actions, Release Drafter, Actionlint.
+
+#### 2. [GitHub Infrastructure as Code](https://github.com/soltani-a/soltania-devops-tf-github-prototype)
+> *Governance as Code.*
+>
+> A Terraform-based governance engine to manage GitHub repositories, teams, and branch protection rules as code. Features automated wrappers for safety and consistency.
+> * **Tech:** Terraform, Bash Automation, GitHub Provider.
+
+#### 3. [Community Governance Hub (.github)](https://github.com/soltani-a/.github)
+> *The Center of Excellence.*
+>
+> This special repository hosts the organization-wide health files (`CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`) ensuring that every new project inherits the same high standards of collaboration and ethics by default.
+> * **Tech:** GitHub Community Standards, Markdown.
+
+#### 4. [Automated API Testing Framework](https://github.com/soltani-a/soltania-devops-functional-test-bruno)
+> *Quality Gates for Microservices.*
+>
+> An enterprise-grade E2E test suite using **Bruno CLI**, designed to validate critical business logic in complex SaaS environments before deployment.
+> * **Tech:** Bruno, JavaScript, CI/CD Integration.
 
 ---
 
 ### 🏆 Certifications
 
-I am committed to maintaining certified expertise to guarantee best practices for my clients.
+Commitment to excellence and continuous learning.
 
-* [cite_start]☁️ **AWS:** **11 Certifications** (Including **Solutions Architect Professional** & **DevOps Engineer Professional**).
-* [cite_start]🏗️ **HashiCorp:** Terraform Associate.
-* [cite_start]☕ **Oracle:** Java SE 8 Programmer I & II, Java EE Web Component Developer.
-* [cite_start]🚀 **Agile:** Professional Scrum Master (PSM) & Product Owner (PSPO).
-
----
-
-### 🔭 Featured Projects (Showcase)
-
-* **[Automated API Testing Framework](https://github.com/soltani-a/soltania-devops-functional-test-bruno)**
-    * [cite_start]*The Challenge:* Validating critical configuration and business logic in complex SaaS environments[cite: 53].
-    * *The Solution:* An enterprise-grade E2E test suite using **Bruno CLI**, featuring self-healing tests, dynamic data generation, and CI/CD integration.
-
-* **[DevOps CI Templates Library](https://github.com/soltani-a/soltania-devops-github-actions-templates-prototype)**
-    * [cite_start]*The Challenge:* Reducing code duplication across microservices and standardizing deployment workflows[cite: 109].
-    * *The Solution:* A centralized library of reusable workflows (Platform Engineering approach) to standardize quality and security gates.
+* ☁️ **AWS:** **11 Certifications** (Including **Solutions Architect Pro** & **DevOps Engineer Pro**).
+* 🏗️ **HashiCorp:** Terraform Associate.
+* ☕ **Oracle:** Java SE 8 Programmer I & II, Java EE Web Component Developer.
+* 🚀 **Agile:** Professional Scrum Master (PSM) & Product Owner (PSPO).
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Metrics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=soltani-a&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Slim's GitHub stats" width="45%" />
@@ -62,9 +93,9 @@ I am committed to maintaining certified expertise to guarantee best practices fo
 
 ---
 
-### 📫 Contact Soltania Technology
+### 📫 Let's Connect
 
-Let's discuss your Cloud modernization or DevOps challenges.
+Ready to modernize your infrastructure?
 
 * 🌐 **Website:** [www.soltania-technology.com](https://your-website.com)
 * 💼 **LinkedIn:** [Slim SOLTANI](https://linkedin.com/in/your-profile/)
